@@ -1,6 +1,8 @@
 # Scientific_experiment
+   
 
-
+    
+    
     Hypothesis. Anthropogenic effects in Antarctic’s environment can be found on distances more than 10 km away from base stations, but do not affect ecosystem considerably.  Depending on the trace of robot it also can be found out that snow located further from seaside is more polluted than the one that is near.
 Major sources of Scientific Base contamination are energy generation, constructions, transport and sewage. As the chemical contamination is long-lived in Antarctica, influence of sources of pollution shall be controlled; mechanisms and implementation of environmental management shall be developed. 
     Following approach of contamination measurements in a sample collected by rover is proposed. Lets assume, that rover will bring reasonable amount of samples to make experiment. The method with blank sample collected manually to verify if rover contaminates samples can be used.  
