@@ -1,9 +1,5 @@
 # Scientific_experiment
-   
-
-    
-    
-    Hypothesis. Anthropogenic effects in Antarctic’s environment can be found on distances more than 10 km away from base stations, but do not affect ecosystem considerably.  Depending on the trace of robot it also can be found out that snow located further from seaside is more polluted than the one that is near.
+   Hypothesis. Anthropogenic effects in Antarctic’s environment can be found on distances more than 10 km away from base stations, but do not affect ecosystem considerably.  Depending on the trace of robot it also can be found out that snow located further from seaside is more polluted than the one that is near.
 Major sources of Scientific Base contamination are energy generation, constructions, transport and sewage. As the chemical contamination is long-lived in Antarctica, influence of sources of pollution shall be controlled; mechanisms and implementation of environmental management shall be developed. 
     Following approach of contamination measurements in a sample collected by rover is proposed. Lets assume, that rover will bring reasonable amount of samples to make experiment. The method with blank sample collected manually to verify if rover contaminates samples can be used.  
     First to analyse snow sample, it shall be turned into water. Then it shall be found out if the sample has specific and most known purgeable or Volatile Organic Compounds (VOC's), which are normally found in air pollution (Polycyclic Aromatic Hydrocarbons that is contained in diesel for example). These compounds are mostly created in biological processes. Because of the harsh weather in Antarctica there are almost no biological VOC's, meaning that any type of this organic compounds in the sample are caused by human activities there. Once the VOC's are identified, spectrophotometer can be used to measure the quantity and the specific types of this compounds in the sample.
